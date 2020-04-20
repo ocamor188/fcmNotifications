@@ -4,7 +4,7 @@ FCM Notifications example
 Steps to do before start writing code:
 Pre-requisites:
 
-#Setup Project on Firebase
+``Setup Project on Firebase
 #Then create the android project(java,kotlin, go, node) this case Java
 #Avoid use package name like com.example, because Google has blocked this package
 #Android Studio have the Firebase setup so it will be easy to setup with firebase, it will download google-services.json in your project automatically
